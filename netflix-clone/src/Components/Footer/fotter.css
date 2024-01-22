@@ -1,0 +1,51 @@
+.main-footer-wrapper {
+	display: flex;
+	justify-content: space-between;
+	width: 70%;
+	margin: 0 auto;
+	color: grey;
+}
+.sm-icons {
+	display: flex;
+	justify-content: space-between;
+	list-style: none;
+	padding-top: 8px;
+}
+.frist-section-wrapper ul li {
+	list-style: none;
+	padding: 8px;
+}
+.service-code {
+	padding: 0.3px 0 0px 13px;
+	margin-left: 8.5px;
+	margin-top: 9px;
+	border: 1px solid #fff;
+}
+
+.copy-w {
+	padding-top: 6px;
+	padding-left: 15px;
+	font-size: 13px;
+}
+.three-sections {
+	display: flex;
+	justify-content: space-between;
+	width: 70%;
+	margin-top: 52.3px;
+}
+.second-section-wrapper ul li {
+	list-style: none;
+	padding: 8px;
+}
+.third-section-wrapper ul li {
+	list-style: none;
+	padding: 8px;
+}
+.fourth-section-wrapper ul li {
+	list-style: none;
+	padding: 8px;
+}
+
+
+
+
