@@ -1,6 +1,4 @@
-
-
-/* .App {
-  background-color: #111;
-  color: #fff;
-} */
+.App {
+	/* background-color: #111; */
+	color: var(--primary-color);
+}
