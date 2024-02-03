@@ -5,7 +5,8 @@ import InstagramIcon from '@mui/icons-material/Instagram';
 import YouTubeIcon from '@mui/icons-material/YouTube';
 
 const Footer = () => {
-	return (
+  return (
+    <>
 		<div className="main-footer-wrapper">
       <div className="frist-section-wrapper">
         <ul className="sm-icons">
@@ -37,7 +38,7 @@ const Footer = () => {
         <li>Terms of Use</li>
         <li>Corporate Information</li>
       </ul>
-        
+
       </div>
       <div className="fourth-section-wrapper">
       <ul>
@@ -46,8 +47,12 @@ const Footer = () => {
         <li>Contact Us</li>
       </ul>
         </div>
-        </div>
-		</div>
+      </div>
+      
+    </div>
+    <br />
+    </>
+    
 	);
 };
 
