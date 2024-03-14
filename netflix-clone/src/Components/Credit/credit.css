@@ -1,0 +1,12 @@
+.footer__credit {
+    /* background-color: #232f3e; */
+    display: flex;
+    justify-content: center;
+    color: #ddd;
+    padding: 15px 0 35px;
+}
+a{
+    text-decoration:underline;
+    color: #ddd;
+
+}
